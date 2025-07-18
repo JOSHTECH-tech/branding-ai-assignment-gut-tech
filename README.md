@@ -1,4 +1,4 @@
-# Branding AI Assignment – GUT TECH
+# Branding AI Assignment – GETTY TECH
 
 ## Overview
 Showcasing how AI tools like ChatGPT and Canva Magic Media were used to create branding materials for GUT TECH.
